@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @lina-tamim
+- This repository houses a web application built using PHP, MySQL, and HTML/CSS to create a dynamic rental platform. It focuses on providing functionality for renting and offering properties for rent, catering to both owners and potential tenants. It serves as a practical example of PHP web development, showcasing best practices in many fields.
